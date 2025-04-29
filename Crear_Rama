@@ -1,0 +1,7 @@
+# Crear rama en github para colab
+1. Crear repositorio en github
+2. Crear un nuevo archivo en el repositorio, para crear la rama principal (main)
+3. En colab ir a archivo -> Guardar copia en Github
+4. Dar accesos y permisos a colab
+5. Seleccionar repositorio y rama
+6. Dar click en Aceptar
